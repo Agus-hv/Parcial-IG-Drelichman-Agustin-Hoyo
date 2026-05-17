@@ -1,5 +1,5 @@
 # Parcial-IG-Drelichman-Agustin-Hoyo
-Agustin Hoyo Veigas 
+Agustin Alejo Hoyo Veigas 
 Primer Parcial - Informática General 
 Artes Multimediales - UNA
 
